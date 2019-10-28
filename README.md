@@ -1,3 +1,3 @@
 # Bootshop
-![layout](drafts/mobile.png "Mobile")
+![](drafts/mobile.png | width=100)
 
