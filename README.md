@@ -1,2 +1,3 @@
-# bootshop
-Bootstrap exercise
+# Bootshop
+![layout](drafts/mobile.png "Mobile")
+
