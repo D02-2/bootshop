@@ -1,3 +1,3 @@
 # Bootshop
-![](drafts/mobile.png | width=100)
+![mobile](drafts/mobile.png "mobile" | width=100)
 
