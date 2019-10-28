@@ -8,4 +8,4 @@
 
 ## Desktop
 <img src="drafts/desktop.png">
-<img src="drafts/desktop-overlay.png">
+<img src="drafts/overlay.png">
